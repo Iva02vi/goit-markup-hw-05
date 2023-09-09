@@ -598,7 +598,7 @@ button {
 }
 
 .form-area-wrapper {
-  margin-bottom: 24px;
+  margin-bottom: 16px;
 }
 
 .form-aria-input {
@@ -615,7 +615,7 @@ button {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 8px 0 24px 0;
+  margin-bottom: 24px;
 }
 
 .form-checkbox-label {
