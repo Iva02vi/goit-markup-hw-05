@@ -567,7 +567,7 @@ button {
 }
 
 .form-input {
-  background-color: var(--navy-blue-modal);
+  background-color: var(--dairy);
   border-radius: 4px;
   border: 1px solid var(--navy-blue-modal);
   width: 100%;
